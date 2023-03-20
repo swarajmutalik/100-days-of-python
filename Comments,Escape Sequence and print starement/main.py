@@ -1,7 +1,7 @@
 '''
 Hey Swaraj, Please don't remove this line
 Author:Swaraj
-COurse:100DaysOfCode
+Course:100DaysOfCode
 '''
 print("Hey I am a \"good boy\"\nand this viewer is also a good boy\girl")
 
