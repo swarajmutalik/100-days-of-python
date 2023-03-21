@@ -9,7 +9,3 @@ print(mangoLen)
 print(fruit[-1:len(fruit) - 3])
 print(fruit[-3:-1])
 
-# Quick Quiz:
-# nm = "Harry"
-# print(nm[-4:-2])
-# @codewithharry
