@@ -13,6 +13,5 @@ print("Done with the loop")
 # else:
 #   print("I am inside else")
 
-# do {
-  # loop body;
-# }while(condition);
+
+
